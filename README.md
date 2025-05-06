@@ -60,4 +60,4 @@ Ingrese la cantidad a convertir:
 
 ##📜 Licencia
 Este proyecto es de uso libre con fines educativos.
-Puedes modificarlo o distribuirlo con fines no comerciales. Se recomienda incluir mención al autor original si se reutiliza públicamente.
+Puedes modificarlo o distribuirlo con fines no comerciales. Se recomienda incluir mención al autor (Luis Venegas) original si se reutiliza públicamente.
