@@ -23,6 +23,9 @@ CurrencyConverter/
 │ ├── Currency.java
 │ └── CurrencyList.java
 
+## 🗂 Diagrama de flujo,
+![image](https://github.com/user-attachments/assets/7e7e6bab-bf62-4f3a-8852-14435352c326)
+
 ## 🔧 Requisitos
 - Java JDK 8 o superior
 - Conexión a internet (para consultar la API de tasas de cambio)
