@@ -11,17 +11,7 @@ Este proyecto es una **aplicación de consola en Java** que permite convertir mo
 - Mensajes interactivos personalizados para el usuario.
 
 ## 🗂 Estructura del Proyecto
-CurrencyConverter/
-│
-├── Main/
-│ └── CurrencyConverter.java
-│
-├── APIs/
-│ └── ExchangeRateAPI.java
-│
-├── CoinsUnits/
-│ ├── Currency.java
-│ └── CurrencyList.java
+![image](https://github.com/user-attachments/assets/6bdb58f6-5083-4f1a-af6f-e5075ebbf61d)
 
 ## 🗂 Diagrama de flujo,
 ![image](https://github.com/user-attachments/assets/7e7e6bab-bf62-4f3a-8852-14435352c326)
@@ -64,8 +54,10 @@ CRC        Costa Rican Colon                  Costa Rica
 
 Ingrese el código de la moneda de origen (ej: USD), o escriba 'SALIR' para terminar:
 > USD
+
 Ingrese el código de la moneda destino (ej: EUR):
 > EUR
+
 Ingrese la cantidad a convertir:
 > 100
 
