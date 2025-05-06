@@ -14,7 +14,7 @@ Este proyecto es una **aplicación de consola en Java** que permite convertir mo
 ![image](https://github.com/user-attachments/assets/6bdb58f6-5083-4f1a-af6f-e5075ebbf61d)
 
 ## 🗂 Diagrama de flujo,
-![image](https://github.com/user-attachments/assets/7e7e6bab-bf62-4f3a-8852-14435352c326)
+![image](https://github.com/user-attachments/assets/5f166c00-c6e4-4578-8d53-bd0051573233)
 
 ## 🔧 Requisitos
 - Java JDK 8 o superior
@@ -45,12 +45,7 @@ Algunas monedas disponibles en el sistema incluyen: USD, EUR, CRC, GBP, AUD, AED
 Bienvenido al conversor de monedas!, por favor ingrese su nombre:
 > Carla
 
-Códigos de Moneda Disponibles:
-Código     Nombre                             País
----------------------------------------------------------------
-USD        United States Dollar               United States
-CRC        Costa Rican Colon                  Costa Rica
-...
+![image](https://github.com/user-attachments/assets/129e7d65-a589-410c-91f5-f05f0c99db86)
 
 Ingrese el código de la moneda de origen (ej: USD), o escriba 'SALIR' para terminar:
 > USD
