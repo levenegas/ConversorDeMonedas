@@ -14,7 +14,7 @@ Este proyecto es una **aplicación de consola en Java** que permite convertir mo
 ![image](https://github.com/user-attachments/assets/6bdb58f6-5083-4f1a-af6f-e5075ebbf61d)
 
 ## 🗂 Diagrama de flujo,
-![image](https://github.com/user-attachments/assets/5f166c00-c6e4-4578-8d53-bd0051573233)
+![image](https://github.com/user-attachments/assets/b00e2e3e-4e24-4e34-b6d1-93dc4dc3e703)
 
 ## 🔧 Requisitos
 - Java JDK 8 o superior
@@ -56,9 +56,7 @@ Ingrese el código de la moneda destino (ej: EUR):
 Ingrese la cantidad a convertir:
 > 100
 
-*********************************************************
-Carla, la cantidad 100.00 USD equivale a 92.35 EUR.
-*********************************************************
+> -->Carla, la cantidad 100.00 USD equivale a 92.35 EUR.<--
 
 ##📜 Licencia
 Este proyecto es de uso libre con fines educativos.
